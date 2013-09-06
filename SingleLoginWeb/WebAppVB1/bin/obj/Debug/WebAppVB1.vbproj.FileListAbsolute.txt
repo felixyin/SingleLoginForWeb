@@ -1,0 +1,26 @@
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\bin\WebAppVB1.dll
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\bin\WebAppVB1.pdb
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\bin\WebAppVB1.xml
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\bin\FY.dll
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\bin\FY.pdb
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\bin\FY.xml
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.Resources.resources
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.dll
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.xml
+C:\Users\MarkWq\Documents\Visual Studio 2010\Projects\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.pdb
+D:\workspaces\visual\WebAppVB1\WebAppVB1\bin\WebAppVB1.dll
+D:\workspaces\visual\WebAppVB1\WebAppVB1\bin\WebAppVB1.pdb
+D:\workspaces\visual\WebAppVB1\WebAppVB1\bin\WebAppVB1.xml
+D:\workspaces\visual\WebAppVB1\WebAppVB1\bin\FY.dll
+D:\workspaces\visual\WebAppVB1\WebAppVB1\bin\FY.pdb
+D:\workspaces\visual\WebAppVB1\WebAppVB1\bin\FY.xml
+D:\workspaces\visual\WebAppVB1\WebAppVB1\obj\Debug\ResolveAssemblyReference.cache
+D:\workspaces\visual\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.Resources.resources
+D:\workspaces\visual\WebAppVB1\WebAppVB1\obj\Debug\GenerateResource.read.1.tlog
+D:\workspaces\visual\WebAppVB1\WebAppVB1\obj\Debug\GenerateResource.write.1.tlog
+D:\workspaces\visual\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.dll
+D:\workspaces\visual\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.xml
+D:\workspaces\visual\WebAppVB1\WebAppVB1\obj\Debug\WebAppVB1.pdb

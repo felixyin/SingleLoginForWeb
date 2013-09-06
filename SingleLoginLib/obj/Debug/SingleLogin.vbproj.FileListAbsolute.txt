@@ -1,0 +1,10 @@
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\bin\Debug\SingleLogin.dll
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\bin\Debug\SingleLogin.pdb
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\bin\Debug\SingleLogin.xml
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\obj\Debug\ResolveAssemblyReference.cache
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\obj\Debug\SingleLogin.Resources.resources
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\obj\Debug\GenerateResource.read.1.tlog
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\obj\Debug\GenerateResource.write.1.tlog
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\obj\Debug\SingleLogin.dll
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\obj\Debug\SingleLogin.xml
+D:\YuanHang\VSProject\SingleLogin\SingleLogin\obj\Debug\SingleLogin.pdb

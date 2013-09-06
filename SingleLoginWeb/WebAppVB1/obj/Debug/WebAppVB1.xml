@@ -1,0 +1,180 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebAppVB1
+</name>
+</assembly>
+<members>
+<member name="F:WebAppVB1.Register.RegisterUser">
+	<summary>
+RegisterUser 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.signature.form1">
+	<summary>
+form1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Login.LoginUser">
+	<summary>
+LoginUser 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1._Default.Label1">
+	<summary>
+Label1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1._Default.lblKey">
+	<summary>
+lblKey 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1._Default.LinkButton1">
+	<summary>
+LinkButton1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1._Default.LinkButton2">
+	<summary>
+LinkButton2 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Site.HeadContent">
+	<summary>
+HeadContent 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Site.MasterPageScriptManager">
+	<summary>
+MasterPageScriptManager 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Site.HeadLoginView">
+	<summary>
+HeadLoginView 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Site.HeadHomeLink">
+	<summary>
+HeadHomeLink 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Site.HeadAboutLink">
+	<summary>
+HeadAboutLink 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.Site.MainContent">
+	<summary>
+MainContent 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:WebAppVB1.WebForm1.form1">
+	<summary>
+form1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="P:WebAppVB1.My.MyWebExtension.Application">
+	<summary>
+ 返回关于当前应用程序的信息。
+ </summary>
+</member><member name="P:WebAppVB1.My.MyWebExtension.Computer">
+	<summary>
+ 返回有关主机计算机的信息。
+ </summary>
+</member><member name="P:WebAppVB1.My.MyWebExtension.User">
+	<summary>
+ 返回有关当前 Web 用户的信息。
+ </summary>
+</member><member name="P:WebAppVB1.My.MyWebExtension.Request">
+	<summary>
+ 返回 Request 对象。
+ </summary>
+</member><member name="P:WebAppVB1.My.MyWebExtension.Response">
+	<summary>
+ 返回 Response 对象。
+ </summary>
+</member><member name="P:WebAppVB1.My.MyWebExtension.Log">
+	<summary>
+ 返回 Asp 日志对象。
+ </summary>
+</member><member name="P:WebAppVB1.My.MyWebExtension.WebServices">
+	<summary>
+ 提供对添加到此项目的 WebServices 的访问。
+ </summary>
+</member><member name="T:WebAppVB1.My.MyWebExtension">
+	<summary>
+ 用于定义“My Web 命名空间”项目中的可用属性的模块。
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
